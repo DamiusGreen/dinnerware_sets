@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dinnerware_sets/static/css/main.6587be9e.chunk.css",
+    "main.js": "/dinnerware_sets/static/js/main.40117f1f.chunk.js",
+    "main.js.map": "/dinnerware_sets/static/js/main.40117f1f.chunk.js.map",
+    "runtime~main.js": "/dinnerware_sets/static/js/runtime~main.67eb189f.js",
+    "runtime~main.js.map": "/dinnerware_sets/static/js/runtime~main.67eb189f.js.map",
+    "static/js/2.25b1c4fe.chunk.js": "/dinnerware_sets/static/js/2.25b1c4fe.chunk.js",
+    "static/js/2.25b1c4fe.chunk.js.map": "/dinnerware_sets/static/js/2.25b1c4fe.chunk.js.map",
+    "index.html": "/dinnerware_sets/index.html",
+    "precache-manifest.ce82392683c28a5da457df38d1a2bd9e.js": "/dinnerware_sets/precache-manifest.ce82392683c28a5da457df38d1a2bd9e.js",
+    "service-worker.js": "/dinnerware_sets/service-worker.js",
+    "static/css/main.6587be9e.chunk.css.map": "/dinnerware_sets/static/css/main.6587be9e.chunk.css.map"
+  }
+}
